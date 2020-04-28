@@ -1,0 +1,54 @@
+.owl-carousel.rrf-angle-only .owl-controls { }
+.owl-carousel.rrf-angle-only .owl-controls .owl-buttons {
+  float: right;
+  margin-right: 40px;
+  margin-top: -296px;
+}
+.owl-carousel.rrf-angle-only .owl-controls .owl-buttons div{}
+.owl-carousel.rrf-angle-only .owl-controls .owl-buttons div.owl-prev{}
+.owl-carousel.rrf-angle-only .owl-controls .owl-buttons div.owl-next{ }
+.owl-carousel.rrf-angle-only .owl-controls .owl-buttons div i{}
+.owl-carousel.rrf-angle-only .owl-controls .owl-buttons div i.fa-angle-left {
+  background: none repeat scroll 0 0 #05aecc;
+  color: #fff;
+  font-size: 35px;
+  margin-right: 1px;
+  padding: 2px 13px;
+}
+.owl-carousel.rrf-angle-only .owl-controls .owl-buttons div i.fa-angle-right{background: none repeat scroll 0 0 #3c3c3c;
+color: #ffffff;
+float: right;
+font-size: 35px;
+margin-right: -39px;
+margin-top: -39px;
+padding: 2px 13px;}
+
+
+.owl-carousel.mz-angle-only .owl-controls .owl-buttons{float: right;
+margin-right: 41px;
+margin-top: -291px;}
+
+
+
+.owl-carousel.rrf-angle-only .owl-controls { }
+.owl-carousel.mz-angle-only .owl-controls .owl-buttons {
+  float: right;
+  margin-right: 9px;
+  margin-top: -513px;
+}
+.owl-carousel.rrf-angle-only .owl-controls .owl-buttons div{}
+.owl-carousel.rrf-angle-only .owl-controls .owl-buttons div.owl-prev{}
+.owl-carousel.rrf-angle-only .owl-controls .owl-buttons div.owl-next{ }
+.owl-carousel.rrf-angle-only .owl-controls .owl-buttons div i{}
+.owl-carousel.mz-angle-only .owl-controls .owl-buttons div i.fa-angle-left{background: none repeat scroll 0 0 #05aecc;
+color: #fff;
+font-size: 35px;
+margin-right: 0;
+padding: 2px 13px;}
+.owl-carousel.mz-angle-only .owl-controls .owl-buttons div i.fa-angle-right{background: none repeat scroll 0 0 #3c3c3c;
+color: #ffffff;
+float: right;
+font-size: 35px;
+margin-right: -39px;
+margin-top: -39px;
+padding: 2px 13px;}

@@ -1,0 +1,429 @@
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.column {width:750px}
+.hmenu_area {
+  float: right;
+  margin-right: -100px;
+}
+.glogo {
+  margin-top: -50px;
+  margin-left: -60px;
+}
+.register {
+  float: left;
+  margin-left: 196px;
+  margin-top: -60px;
+}
+.sign {
+  float: left;
+  margin-left: 3px;
+  margin-top: -60px;
+}
+.whis {
+  display: block;
+  float: left;
+  margin-left: 3px;
+  margin-top: -60px;
+}
+.cart {
+  display: block;
+  float: right;
+  margin-right: -88px;
+  margin-top: -101px;
+}
+.mainmenu_area {display:none}
+
+.slicknav_menu {display: block;}
+
+div.slicknav_menu {background: none repeat scroll 0 0 #05aecc;}
+.men > img {
+  margin-left: -91px;
+  margin-top: -12px;
+  width: 75%;
+}
+.women img {
+  float: right;
+  margin-right: -88px;
+  margin-top: -474px;
+  width: 49.3%;
+}
+.baby a img {
+  float: right;
+  height: 226px;
+  margin-right: -89px;
+  margin-top: -240px;
+  width: 49.3%;
+}
+.baby p a {
+  margin-left: 537px;
+  margin-top: -75px;
+}
+.baby .fa-gift {
+  margin-left: 626px;
+  margin-top: -75px;
+}
+.baby .fa-shopping-cart {
+  margin-left: 667px;
+  margin-top: -75px;
+}
+.baby h2 {
+  margin-right: -88px;
+  margin-top: -75px;
+}
+.search {
+  min-height: 120px;
+  margin-left: -91px;
+  margin-top: -12px;
+  width: 75%;
+}
+#search-box {
+  float: right;
+  margin: 15px 105px 0 0;
+  position: relative;
+  width: 393px;
+}
+.add > img {
+  margin-left: -91px;
+  margin-top: 4px;
+  width: 75%;
+}
+.jw img {
+  height: 393px;
+  margin-left: 588px;
+  margin-top: -425px;
+  width: 41.6%;
+}
+.jw h1 {
+  margin-right: -160px;
+  margin-top: -180px;
+}
+.squ {
+  height: 78px;
+  margin-right: -88px;
+  margin-top: -358px;
+  width: 68px;
+}
+.squ p {
+  margin-right: 58px;
+  margin-top: 53px;
+}
+.circ {
+  height: 55px;
+  margin-right: -82px;
+  margin-top: -348px;
+  width: 55px;
+}
+.circ a p {
+  margin-right: 15px;
+  margin-top: -17px;
+}
+.add > h1 {
+  background: none repeat scroll 0 0 #5e5064;
+  color: #fff;
+  display: inline;
+  float: left;
+  font-family: "Lato",sans-serif;
+  font-weight: 500;
+  margin-left: -409px;
+  margin-top: 218px;
+  padding: 13px 54px;
+  position: absolute;
+}
+.add .fa-gift {
+  background: none repeat scroll 0 0 #00a1be;
+  color: #fff;
+  float: left;
+  font-size: 40px;
+  margin-left: -225px;
+  margin-top: 218px;
+  padding: 8px;
+}
+.add .fa-shopping-cart {
+  margin-left: -175px;
+  margin-top: 218px;
+}
+.add > h2 {
+  margin-left: -122px;
+  margin-top: 218px;
+}
+.new_area h1 {
+  margin-left: -79px;
+  margin-top: -141px;
+  width: 117%;
+}
+.owl-carousel.rrf-angle-only .owl-controls .owl-buttons {
+  float: right;
+  margin-right: -52px;
+  margin-top: -260px;
+}
+.featured_area h1 {
+  margin-left: -77px;
+  width: 117%;
+}
+.owl-carousel.mz-angle-only .owl-controls .owl-buttons {
+  float: right;
+  margin-right: -72px;
+  margin-top: -513px;
+}
+.we_area h1 {
+  margin-left: -74px;
+  width: 117%;
+}
+.we_area p {
+  margin-left: -70px;
+  width: 117%;
+}
+.pc {
+  margin-left: -88px;
+  width: 40%;
+}
+.pc > h2 > a {
+  color: #fff;
+  float: right;
+  font-family: "Lato",sans-serif;
+  margin-right: 39px;
+  margin-top: -112px;
+  width: 50px;
+}
+.lr {
+  margin-left: 215px;
+  margin-top: -204px;
+  width: 40%;
+}
+.lr > h2 > a {
+  color: #fff;
+  float: right;
+  font-family: "Lato",sans-serif;
+  margin-right: 41px;
+  margin-top: -112px;
+  width: 50px;
+}
+.lr span {
+  color: #fff;
+  float: right;
+  font-size: 21px;
+  margin-right: 8px;
+  margin-top: -113px;
+}
+.check {
+  margin-left: 519px;
+  margin-top: -204px;
+  width: 40%;
+}
+.check > h2 > a {
+  color: #fff;
+  float: right;
+  font-family: "Lato",sans-serif;
+  margin-right: 50px;
+  margin-top: -112px;
+  width: 50px;
+}
+.regi_area {
+  border-bottom: 1px solid #d2d2d4;
+  float: right;
+  margin-right: 10px;
+  min-height: 93px;
+  width: 98%;
+}
+.rn {
+  float: right;
+  margin-right: 216px;
+  margin-top: 5px;
+  text-align: center;
+  width: 288px;
+}
+.us {
+  margin-left: -48px;
+}
+.about {
+  margin-left: 197px;
+  margin-top: -251px;
+}
+.selling {
+  margin-left: 345px;
+  margin-top: -212px;
+}
+.news {
+  margin-left: 555px;
+  margin-top: -149px;
+  width: 246px;
+}
+}
+
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+
+.column {width:300px}
+.mainmenu_area {display:none}
+
+.slicknav_menu {display: block;}
+
+div.slicknav_menu {background: none repeat scroll 0 0 #05aecc;}
+.hmenu_area ul#nav1 {
+  margin-left: -13px;
+}
+.register {
+  float: left;
+  margin-left: -143px;
+  margin-top: 15px;
+}
+.sign {
+  float: left;
+  margin-left: -27px;
+  margin-top: 15px;
+}
+.whis {
+  display: block;
+  float: left;
+  margin-left: -229px;
+  margin-top: 84px;
+  width: 115px;
+}
+.cart {
+  display: block;
+  float: left;
+  margin-left: -27px;
+  margin-top: -32px;
+  width: 113px;
+}
+.men > img {
+  margin-left: -13px;
+  margin-top: -15px;
+  width: 109%;
+}
+.women img {
+  float: right;
+  margin-right: -13px;
+  margin-top: -12px;
+  width: 109%;
+}
+.baby a img {
+  float: right;
+  height: 180px;
+  margin-right: -13px;
+  margin-top: 3px;
+  width: 109%;
+}
+.baby p a {
+  margin-left: 10px;
+  margin-top: -55px;
+}
+.baby .fa-gift {
+  margin-left: 100px;
+  margin-top: 320px;
+}
+.baby .fa-shopping-cart {
+  margin-left: 142px;
+  margin-top: 320px;
+}
+.baby h2 {
+  margin-right: 8px;
+  margin-top: -55px;
+}
+.search {
+  margin-left: -13px;
+  margin-top: -12px;
+  min-height: 99px;
+  width: 109%;
+}
+#search-box {
+  float: right;
+  margin: 6px 69px 0 0;
+  position: relative;
+  width: 241px;
+}
+.add > img {
+  margin-left: -13px;
+  margin-top: 2px;
+  width: 108.9%;
+}
+.jw img {
+  height: 500px;
+  margin-left: 121px;
+  margin-top: -2px;
+  width: 74.5%;
+}
+.jw h1 {
+  margin-right: -87px;
+  margin-top: -175px;;
+}
+.squ {
+  height: 78px;
+  margin-right: -13px;
+  margin-top: -379px;
+  width: 60px;
+}
+.squ p {
+  margin-right: 52px;
+  margin-top: 53px;
+}
+.circ {
+  height: 50px;
+  margin-right: -9px;
+  margin-top: -366px;
+  width: 50px;
+}
+.circ a p {
+  margin-right: 14px;
+  margin-top: -20px;
+}
+.new_area h1 {
+  font-size: 28px;
+}
+.owl-carousel.rrf-angle-only .owl-controls .owl-buttons {
+  float: right;
+  margin-right: 22px;
+  margin-top: -256px;
+}
+.featured_area h1 {
+  font-size: 28px;
+}
+.owl-carousel.mz-angle-only .owl-controls .owl-buttons {
+  float: right;
+  margin-right: 16px;
+  margin-top: -509px;
+}
+.pc > h2 > a {
+  margin-right: 39px;
+}
+.lr > h2 > a {
+  margin-right: 44px;
+}
+.lr span {
+  margin-right: 10px;
+}
+.check > h2 > a {
+  margin-right: 58px;
+  margin-top: -97px;
+}
+.regi_area {
+  margin-right: 2px;
+  min-height: 93px;
+  width: 99%;
+  margin-top: -80px;
+}
+.right {
+  margin-left: -14px;
+  margin-top: 7px;
+  width: 109%;
+}
+.right p {
+  font-size: 20px;
+}
+}
+
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+.column {width:450px}
+
+}
+
+
